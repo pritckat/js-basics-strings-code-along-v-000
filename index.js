@@ -1,1 +1,1 @@
-let currentUser;
+let currentUser = "";
